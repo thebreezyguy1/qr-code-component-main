@@ -1,0 +1,31 @@
+.qr-component{
+  background-color: #fff;
+  width: 300px;
+  max-width: 300px;
+  text-align: center;
+  padding: 15px 10px;
+  border-radius: 20px;
+}
+
+.qr-image{
+  width: 288px;
+  border-radius: 10px;
+}
+
+.qr-description p{
+  font-size: 15px;
+  color: #7D889E;
+  margin-top: 0;
+  padding: 0 12px;
+}
+
+.qr-description{
+  padding: 6px;
+}
+
+.qr-description h3{
+  font-size: 22px;
+  margin-top: 5px;
+  color: #1F314F;
+}
+
